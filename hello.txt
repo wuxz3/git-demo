@@ -12,7 +12,6 @@ hello git!
 hello git!
 hello git!
 hello git!
-<<<<<<< HEAD
 hello git! master test
 hello git! hot-fix test
 >>>>>>> hot-fix
